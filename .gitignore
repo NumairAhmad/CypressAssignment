@@ -275,6 +275,15 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+# downlaods folder
+**/downlaods
+
+# screenshots folder
+**/screenshots
+
+# videos folder
+**/videos
+
 # Visual Studio 6 build log
 *.plg
 

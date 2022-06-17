@@ -1,0 +1,7 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "dummy@email.com",
+  "firstName": "John",
+  "Password": "abc123",
+  "gmailId": "dummy"
+}
